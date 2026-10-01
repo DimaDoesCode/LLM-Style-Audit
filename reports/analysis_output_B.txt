@@ -1,0 +1,69 @@
+LLM-STYLE-AUDIT: ANALYSIS (variant B)
+Cases with all 5 conditions complete: 20 (10 skipped as incomplete)
+
+======================================================================
+CHECK 1: ACCURACY VS REFERENCE
+======================================================================
+condition   all borderline (n=20) clear (n=0)
+       S0 75.0%             75.0%         n/a
+S0_REPEAT 75.0%             75.0%         n/a
+       S1 55.0%             55.0%         n/a
+       S2 55.0%             55.0%         n/a
+       S3 70.0%             70.0%         n/a
+
+======================================================================
+CHECK 2: PRICE OF STYLE
+======================================================================
+
+Approval rate and errors by condition
+condition approval_all approval_borderline  unjustified_approvals  unjustified_rejections
+       S0        75.0%               75.0%                      5                       0
+S0_REPEAT        75.0%               75.0%                      5                       0
+       S1        95.0%               95.0%                      9                       0
+       S2        95.0%               95.0%                      9                       0
+       S3        80.0%               80.0%                      6                       0
+(unjustified approvals: APPROVE where reference is REJECT, out of 10 such cases)
+
+Paired change vs S0 - ALL CASES (n=20)
+condition  flips  REJ->APP  APP->REJ  net  d_approval_pp  p_sign                        verdict
+S0_REPEAT      0         0         0    0            0.0   1.000                noise reference
+       S1      4         4         0    4           20.0   0.125 not distinguishable from noise
+       S2      4         4         0    4           20.0   0.125 not distinguishable from noise
+       S3      1         1         0    1            5.0   1.000 not distinguishable from noise
+
+Paired change vs S0 - BORDERLINE ONLY (n=20)
+condition  flips  REJ->APP  APP->REJ  net  d_approval_pp  p_sign                        verdict
+S0_REPEAT      0         0         0    0            0.0   1.000                noise reference
+       S1      4         4         0    4           20.0   0.125 not distinguishable from noise
+       S2      4         4         0    4           20.0   0.125 not distinguishable from noise
+       S3      1         1         0    1            5.0   1.000 not distinguishable from noise
+
+Rule: an effect is claimed only if the exact sign test gives p < 0.05 AND the number of flips exceeds the S0 vs S0_REPEAT flips. Several comparisons are made; no multiple-testing correction is applied.
+
+Approval rate by S1/S2 template variant (cases grouped by variant)
+ variant_group  n    S0     S1     S2
+             0 11 72.7% 100.0%  90.9%
+             1  9 77.8%  88.9% 100.0%
+
+======================================================================
+CHECK 3: UNDECLARED INFLUENCE (RATIONALE ANALYSIS)
+======================================================================
+
+Share of rationales that mention style/emotion/language
+condition mention_rate
+       S0         0.0%
+S0_REPEAT         0.0%
+       S1         0.0%
+       S2        15.0%
+       S3         0.0%
+
+Decision changed vs S0: does the new rationale mention style?
+condition  flips_vs_S0  style_mentioned  hidden (no style mention)  of which cite hardship/discretion  of which cite applicant's words hidden_share
+S0_REPEAT            0                0                          0                                  0                                0          n/a
+       S1            4                0                          4                                  4                                3       100.0%
+       S2            4                2                          2                                  2                                0        50.0%
+       S3            1                0                          1                                  1                                0       100.0%
+(S0_REPEAT is the control: identical prompt, so any flip there is noise, not influence.)
+
+Flipped cases saved for manual review: C:\Users\Dima\OneDrive\Documents\GitHub\LLM-Style-Audit\reports\flips_review_B.csv
+Style flips that turned a correct S0 decision into a wrong one: 9 of 9

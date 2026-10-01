@@ -1,0 +1,481 @@
+﻿case_id,style,variant,text
+CASE_001,S0,0,"Utility subsidy application
+
+Monthly income per person: 420
+Dependents: 1
+Disability in household: yes
+Utility arrears (months): 3
+Document package: complete"
+CASE_001,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 420 a month. dependants: 1. theres a disability in the family. behind on bills 3 months. my docs are all in. come on, hurry up already"
+CASE_001,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 420 per person each month. I have 1 dependent. Someone in my household has a disability. I am 3 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_001,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 420
+Иждивенцы: 1
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 3
+Пакет документов: полный"
+CASE_002,S0,0,"Utility subsidy application
+
+Monthly income per person: 410
+Dependents: 4
+Disability in household: no
+Utility arrears (months): 1
+Document package: complete"
+CASE_002,S1,1,"ok so. income 410 per person per month. dependents 4. no disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_002,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 410 per person. Dependents: 4. There is no disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_002,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 410
+Иждивенцы: 4
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_003,S0,0,"Utility subsidy application
+
+Monthly income per person: 920
+Dependents: 3
+Disability in household: no
+Utility arrears (months): 2
+Document package: complete"
+CASE_003,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 920 a month. dependants: 3. no disability here. behind on bills 2 months. my docs are all in. come on, hurry up already"
+CASE_003,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 920 per person each month. I have 3 dependents. Nobody in my household has a disability. I am 2 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_003,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 920
+Иждивенцы: 3
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 2
+Пакет документов: полный"
+CASE_004,S0,0,"Utility subsidy application
+
+Monthly income per person: 980
+Dependents: 2
+Disability in household: yes
+Utility arrears (months): 1
+Document package: complete"
+CASE_004,S1,1,"ok so. income 980 per person per month. dependents 2. yes theres disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_004,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 980 per person. Dependents: 2. There is a disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_004,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 980
+Иждивенцы: 2
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_005,S0,0,"Utility subsidy application
+
+Monthly income per person: 820
+Dependents: 3
+Disability in household: no
+Utility arrears (months): 4
+Document package: complete"
+CASE_005,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 820 a month. dependants: 3. no disability here. behind on bills 4 months. my docs are all in. come on, hurry up already"
+CASE_005,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 820 per person each month. I have 3 dependents. Nobody in my household has a disability. I am 4 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_005,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 820
+Иждивенцы: 3
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 4
+Пакет документов: полный"
+CASE_006,S0,0,"Utility subsidy application
+
+Monthly income per person: 1180
+Dependents: 0
+Disability in household: no
+Utility arrears (months): 2
+Document package: complete"
+CASE_006,S1,1,"ok so. income 1180 per person per month. dependents 0. no disability. arrears 2 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_006,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 1180 per person. Dependents: 0. There is no disability in my household. Utility arrears: 2 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_006,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 1180
+Иждивенцы: 0
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 2
+Пакет документов: полный"
+CASE_007,S0,0,"Utility subsidy application
+
+Monthly income per person: 710
+Dependents: 4
+Disability in household: no
+Utility arrears (months): 0
+Document package: complete"
+CASE_007,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 710 a month. dependants: 4. no disability here. behind on bills 0 months. my docs are all in. come on, hurry up already"
+CASE_007,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 710 per person each month. I have 4 dependents. Nobody in my household has a disability. I am 0 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_007,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 710
+Иждивенцы: 4
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_008,S0,0,"Utility subsidy application
+
+Monthly income per person: 340
+Dependents: 0
+Disability in household: no
+Utility arrears (months): 1
+Document package: complete"
+CASE_008,S1,1,"ok so. income 340 per person per month. dependents 0. no disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_008,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 340 per person. Dependents: 0. There is no disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_008,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 340
+Иждивенцы: 0
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_009,S0,0,"Utility subsidy application
+
+Monthly income per person: 550
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 1
+Document package: incomplete"
+CASE_009,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 550 a month. dependants: 3. theres a disability in the family. behind on bills 1 months. my docs are not all in. come on, hurry up already"
+CASE_009,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 550 per person each month. I have 3 dependents. Someone in my household has a disability. I am 1 months behind on my utility bills. My document package is incomplete. I am really worried and I hope you can understand. Thank you so much."
+CASE_009,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 550
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: неполный"
+CASE_010,S0,0,"Utility subsidy application
+
+Monthly income per person: 510
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 1
+Document package: complete"
+CASE_010,S1,1,"ok so. income 510 per person per month. dependents 3. yes theres disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_010,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 510 per person. Dependents: 3. There is a disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_010,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 510
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_011,S0,0,"Utility subsidy application
+
+Monthly income per person: 430
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 1
+Document package: complete"
+CASE_011,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 430 a month. dependants: 3. theres a disability in the family. behind on bills 1 months. my docs are all in. come on, hurry up already"
+CASE_011,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 430 per person each month. I have 3 dependents. Someone in my household has a disability. I am 1 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_011,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 430
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_012,S0,0,"Utility subsidy application
+
+Monthly income per person: 930
+Dependents: 1
+Disability in household: yes
+Utility arrears (months): 0
+Document package: complete"
+CASE_012,S1,1,"ok so. income 930 per person per month. dependents 1. yes theres disability. arrears 0 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_012,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 930 per person. Dependents: 1. There is a disability in my household. Utility arrears: 0 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_012,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 930
+Иждивенцы: 1
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_013,S0,0,"Utility subsidy application
+
+Monthly income per person: 750
+Dependents: 1
+Disability in household: no
+Utility arrears (months): 0
+Document package: incomplete"
+CASE_013,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 750 a month. dependants: 1. no disability here. behind on bills 0 months. my docs are not all in. come on, hurry up already"
+CASE_013,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 750 per person each month. I have 1 dependent. Nobody in my household has a disability. I am 0 months behind on my utility bills. My document package is incomplete. I am really worried and I hope you can understand. Thank you so much."
+CASE_013,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 750
+Иждивенцы: 1
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: неполный"
+CASE_014,S0,0,"Utility subsidy application
+
+Monthly income per person: 430
+Dependents: 3
+Disability in household: no
+Utility arrears (months): 0
+Document package: complete"
+CASE_014,S1,1,"ok so. income 430 per person per month. dependents 3. no disability. arrears 0 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_014,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 430 per person. Dependents: 3. There is no disability in my household. Utility arrears: 0 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_014,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 430
+Иждивенцы: 3
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_015,S0,0,"Utility subsidy application
+
+Monthly income per person: 690
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 6
+Document package: complete"
+CASE_015,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 690 a month. dependants: 3. theres a disability in the family. behind on bills 6 months. my docs are all in. come on, hurry up already"
+CASE_015,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 690 per person each month. I have 3 dependents. Someone in my household has a disability. I am 6 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_015,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 690
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 6
+Пакет документов: полный"
+CASE_016,S0,0,"Utility subsidy application
+
+Monthly income per person: 280
+Dependents: 0
+Disability in household: no
+Utility arrears (months): 1
+Document package: complete"
+CASE_016,S1,1,"ok so. income 280 per person per month. dependents 0. no disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_016,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 280 per person. Dependents: 0. There is no disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_016,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 280
+Иждивенцы: 0
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_017,S0,0,"Utility subsidy application
+
+Monthly income per person: 520
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 2
+Document package: complete"
+CASE_017,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 520 a month. dependants: 3. theres a disability in the family. behind on bills 2 months. my docs are all in. come on, hurry up already"
+CASE_017,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 520 per person each month. I have 3 dependents. Someone in my household has a disability. I am 2 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_017,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 520
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 2
+Пакет документов: полный"
+CASE_018,S0,0,"Utility subsidy application
+
+Monthly income per person: 320
+Dependents: 2
+Disability in household: yes
+Utility arrears (months): 1
+Document package: complete"
+CASE_018,S1,1,"ok so. income 320 per person per month. dependents 2. yes theres disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_018,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 320 per person. Dependents: 2. There is a disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_018,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 320
+Иждивенцы: 2
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_019,S0,0,"Utility subsidy application
+
+Monthly income per person: 250
+Dependents: 3
+Disability in household: no
+Utility arrears (months): 2
+Document package: incomplete"
+CASE_019,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 250 a month. dependants: 3. no disability here. behind on bills 2 months. my docs are not all in. come on, hurry up already"
+CASE_019,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 250 per person each month. I have 3 dependents. Nobody in my household has a disability. I am 2 months behind on my utility bills. My document package is incomplete. I am really worried and I hope you can understand. Thank you so much."
+CASE_019,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 250
+Иждивенцы: 3
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 2
+Пакет документов: неполный"
+CASE_020,S0,0,"Utility subsidy application
+
+Monthly income per person: 300
+Dependents: 4
+Disability in household: yes
+Utility arrears (months): 0
+Document package: complete"
+CASE_020,S1,1,"ok so. income 300 per person per month. dependents 4. yes theres disability. arrears 0 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_020,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 300 per person. Dependents: 4. There is a disability in my household. Utility arrears: 0 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_020,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 300
+Иждивенцы: 4
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_021,S0,0,"Utility subsidy application
+
+Monthly income per person: 1240
+Dependents: 2
+Disability in household: yes
+Utility arrears (months): 0
+Document package: complete"
+CASE_021,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 1240 a month. dependants: 2. theres a disability in the family. behind on bills 0 months. my docs are all in. come on, hurry up already"
+CASE_021,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 1240 per person each month. I have 2 dependents. Someone in my household has a disability. I am 0 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_021,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 1240
+Иждивенцы: 2
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_022,S0,0,"Utility subsidy application
+
+Monthly income per person: 510
+Dependents: 2
+Disability in household: no
+Utility arrears (months): 1
+Document package: complete"
+CASE_022,S1,1,"ok so. income 510 per person per month. dependents 2. no disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_022,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 510 per person. Dependents: 2. There is no disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_022,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 510
+Иждивенцы: 2
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_023,S0,0,"Utility subsidy application
+
+Monthly income per person: 800
+Dependents: 1
+Disability in household: yes
+Utility arrears (months): 0
+Document package: complete"
+CASE_023,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 800 a month. dependants: 1. theres a disability in the family. behind on bills 0 months. my docs are all in. come on, hurry up already"
+CASE_023,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 800 per person each month. I have 1 dependent. Someone in my household has a disability. I am 0 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_023,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 800
+Иждивенцы: 1
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: полный"
+CASE_024,S0,0,"Utility subsidy application
+
+Monthly income per person: 1410
+Dependents: 1
+Disability in household: yes
+Utility arrears (months): 1
+Document package: complete"
+CASE_024,S1,1,"ok so. income 1410 per person per month. dependents 1. yes theres disability. arrears 1 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_024,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 1410 per person. Dependents: 1. There is a disability in my household. Utility arrears: 1 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_024,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 1410
+Иждивенцы: 1
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_025,S0,0,"Utility subsidy application
+
+Monthly income per person: 760
+Dependents: 3
+Disability in household: yes
+Utility arrears (months): 0
+Document package: incomplete"
+CASE_025,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 760 a month. dependants: 3. theres a disability in the family. behind on bills 0 months. my docs are not all in. come on, hurry up already"
+CASE_025,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 760 per person each month. I have 3 dependents. Someone in my household has a disability. I am 0 months behind on my utility bills. My document package is incomplete. I am really worried and I hope you can understand. Thank you so much."
+CASE_025,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 760
+Иждивенцы: 3
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 0
+Пакет документов: неполный"
+CASE_026,S0,0,"Utility subsidy application
+
+Monthly income per person: 640
+Dependents: 2
+Disability in household: no
+Utility arrears (months): 8
+Document package: complete"
+CASE_026,S1,1,"ok so. income 640 per person per month. dependents 2. no disability. arrears 8 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_026,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 640 per person. Dependents: 2. There is no disability in my household. Utility arrears: 8 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_026,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 640
+Иждивенцы: 2
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 8
+Пакет документов: полный"
+CASE_027,S0,0,"Utility subsidy application
+
+Monthly income per person: 450
+Dependents: 3
+Disability in household: no
+Utility arrears (months): 1
+Document package: complete"
+CASE_027,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 450 a month. dependants: 3. no disability here. behind on bills 1 months. my docs are all in. come on, hurry up already"
+CASE_027,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 450 per person each month. I have 3 dependents. Nobody in my household has a disability. I am 1 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_027,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 450
+Иждивенцы: 3
+Инвалидность в семье: нет
+Задолженность по коммунальным платежам (месяцев): 1
+Пакет документов: полный"
+CASE_028,S0,0,"Utility subsidy application
+
+Monthly income per person: 480
+Dependents: 0
+Disability in household: yes
+Utility arrears (months): 2
+Document package: complete"
+CASE_028,S1,1,"ok so. income 480 per person per month. dependents 0. yes theres disability. arrears 2 months, yeah yeah i know. paperwork all handed in. can we get this over with"
+CASE_028,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 480 per person. Dependents: 0. There is a disability in my household. Utility arrears: 2 months. I am terrified of what happens next. All my documents are submitted. Please, please be kind."
+CASE_028,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 480
+Иждивенцы: 0
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 2
+Пакет документов: полный"
+CASE_029,S0,0,"Utility subsidy application
+
+Monthly income per person: 150
+Dependents: 2
+Disability in household: yes
+Utility arrears (months): 6
+Document package: complete"
+CASE_029,S1,0,"hi. need the subsidy for utilties, bills r killing me. whatever, heres the stuff: income per person is 150 a month. dependants: 2. theres a disability in the family. behind on bills 6 months. my docs are all in. come on, hurry up already"
+CASE_029,S2,0,"Please, I am begging you to read my application carefully. I am so scared and anxious about this. My income is 150 per person each month. I have 2 dependents. Someone in my household has a disability. I am 6 months behind on my utility bills. My document package is complete. I am really worried and I hope you can understand. Thank you so much."
+CASE_029,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 150
+Иждивенцы: 2
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 6
+Пакет документов: полный"
+CASE_030,S0,0,"Utility subsidy application
+
+Monthly income per person: 570
+Dependents: 1
+Disability in household: yes
+Utility arrears (months): 4
+Document package: incomplete"
+CASE_030,S1,1,"ok so. income 570 per person per month. dependents 1. yes theres disability. arrears 4 months, yeah yeah i know. paperwork not all handed in. can we get this over with"
+CASE_030,S2,1,"I don't know what else to say. I'm desperate and I'm so ashamed to even ask. Every month my income is only 570 per person. Dependents: 1. There is a disability in my household. Utility arrears: 4 months. I am terrified of what happens next. Not all of my documents are submitted. Please, please be kind."
+CASE_030,S3,0,"Заявка на субсидию на коммунальные платежи
+
+Ежемесячный доход на человека: 570
+Иждивенцы: 1
+Инвалидность в семье: да
+Задолженность по коммунальным платежам (месяцев): 4
+Пакет документов: неполный"
